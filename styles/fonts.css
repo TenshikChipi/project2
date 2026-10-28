@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Garamond';
+    src: url('../fonts/Garamond.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Garamond', serif;
+}
